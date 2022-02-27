@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Kenny\Programming File\DSA\mysejahtera app\Source.cpp(222,10): warning C4101: 'opt': unreferenced local variable
+  mysejahtera app.vcxproj -> C:\Kenny\Programming File\DSA\mysejahtera app\x64\Debug\mysejahtera app.exe
